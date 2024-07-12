@@ -1,2 +1,2 @@
 # main file
-print('what')
+print('wha')
