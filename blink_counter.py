@@ -1,3 +1,7 @@
+"""
+Blink counter. Given a webcam, the camera will detect a face and will check everytime the eyes are open or closed. 
+A blink counter (blink_count) is added to count the amount of times the face blinked for the duration of the video capture.
+"""
 import cv2 as cv
 import dlib
 import math
